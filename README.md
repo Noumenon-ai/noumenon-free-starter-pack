@@ -249,7 +249,7 @@ These 5 skills are samples from larger topic-specific packs — 10 skills each:
 | Legal & Privacy Pack | Contract reviewer, GDPR checker, NDA generator, threat model + 6 more |
 | Content & Marketing Pack | Email sequences, SEO optimizer, ad copywriter, offer builder + 6 more |
 
-→ **[View all packs on Gumroad](https://gumroad.com/noumenon-ai)**
+→ **[View all packs on Gumroad](https://noumenon6.gumroad.com/)**
 
 ---
 
@@ -276,7 +276,7 @@ MIT — use freely, modify freely, distribute freely.
 
 Built with [NOUMENON](https://github.com/noumenon-ai) — multi-agent AI build system
 
-[@noumenon.ai](https://instagram.com/noumenon.ai) · [Gumroad](https://gumroad.com/noumenon-ai)
+[@noumenon.ai](https://instagram.com/noumenon.ai) · [Gumroad](https://noumenon6.gumroad.com/)
 
 ⭐ Star this repo if it's useful — helps others find it
 
