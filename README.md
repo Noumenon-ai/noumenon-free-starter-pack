@@ -281,3 +281,5 @@ Built with [NOUMENON](https://github.com/noumenon-ai) — multi-agent AI build s
 ⭐ Star this repo if it's useful — helps others find it
 
 </div>
+---
+Built by [Noumenon](https://github.com/Noumenon-ai)
